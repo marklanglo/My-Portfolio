@@ -12,8 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Check out this project here: [Tic-Tac-Toe by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
 
 ### Solar System
-![](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/SolarSystem.gif)
-<img src="https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/SolarSystem.gif" />
+![](https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif)
+<img src="https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif">
 
 **Bold** and _Italic_ and `Code` text
 
