@@ -28,9 +28,6 @@ Hello, I am **Mark Wiedeman**, and this is a simple website to archive some of m
 
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Thank You For Visiting My Portfolio
 
 Thank you for taking the time to consider my portfolio, if you wish to contact me please do so via discord: "Just Some Monkey#3562" or by email: "markwiedeman5@gmail.com"
