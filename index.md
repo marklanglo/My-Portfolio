@@ -25,10 +25,9 @@ Hello, I am **Mark Wiedeman**, and this is a simple website to archive some of m
 
 **Check out this project here:** [Solar System by: Mark Wiedeman](https://github.com/marklanglo/Solar-System)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
