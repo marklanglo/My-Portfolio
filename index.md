@@ -1,8 +1,6 @@
-## Welcome to my Github Page
+## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/marklanglo/My-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, I am **Mark Wiedeman**, and this is a simple website to archive some of my git repos containing past projects.  I've chosen these projects to best represent me and how I write code.  The **Tic-Tac-Toe** is a demonstration of my function use and algorithms, the **Tom and Jerry** project shows my ability to navigate graphical components of Java, and then the **Solar System** project is simply for fun.  **Feel free to visit any of the git repos from this page.**
 
 ### Tic-Tac-Toe
 ![Image](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/tictactoe1.PNG)
