@@ -35,3 +35,4 @@ I've chosen these projects to best represent me and how I write code.  As for th
 ### Thank You For Visiting My Portfolio
 
 Thank you for taking the time to consider my portfolio, if you wish to contact me please do so via discord: "Just Some Monkey#3562" or by email: "markwiedeman5@gmail.com"
+You can also view my [LinkedIn here.](https://www.linkedin.com/in/mark-wiedeman-47bb45213/)
