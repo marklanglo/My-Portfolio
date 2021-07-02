@@ -13,6 +13,7 @@ Check out this project here: [Tic-Tac-Toe by: Mark Wiedeman](https://github.com/
 
 ### Solar System
 ![](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/SolarSystem.gif)
+<img src="https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/SolarSystem.gif" />
 
 **Bold** and _Italic_ and `Code` text
 
