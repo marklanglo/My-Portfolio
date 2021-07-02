@@ -1,6 +1,10 @@
 ## Welcome to my Portfolio
 
-Hello, I am **Mark Wiedeman**, and this is a simple website to archive some of my git repos containing past projects.  I've chosen these projects to best represent me and how I write code.  As for the projects here: The **Tic-Tac-Toe** is a demonstration of my function use and algorithms, the **Tom and Jerry** project shows my ability to navigate graphical components of Java, and then the **Solar System** project is simply for fun.  **Feel free to visit any of the git repos from this page as they each have git repos with pages, which more greatly describe and show the programs.**
+Hello, I am **Mark Wiedeman**, and this is a simple website to archive some of my git repos containing past projects.  I'm a Computer Science Major at CSUF and have been coding for approximately 3 years.  I have had experience with C++, Java, and other languages.  
+
+I've chosen these projects to best represent me and how I write code.  As for the projects here: The **Tic-Tac-Toe** is a demonstration of my function use and algorithms, the **Tom and Jerry** project shows my ability to navigate graphical components of Java, and then the **Solar System** project is simply for fun.  **Feel free to visit any of the git repos from this page as they each have git repos with pages, which more greatly describe and show the programs.**
+
+
 
 ### Tic-Tac-Toe
 ![Image](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/tictactoe1.PNG)
