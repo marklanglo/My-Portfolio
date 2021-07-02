@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/marklanglo/My-Portfolio/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Tic-Tac-Toe
+<img src="https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/tictactoe1.PNG"/>
+This is one of my earlier programs, it offers a few simple functions such as single player, two player, and switching the names of the players via the console.  Playing the game itself is also relatively simple as it is done by entering the space you would like the 'X' or 'O' to go respectively, depending on which player you are.  The single player uses an AI based on the minimax algorithm.  Throughout the program there are many prompts and descriptions for how it is meant to work in order to guide the player through the console based environment.  Basic ASCII art is used for winnning and losing screens as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check out this project here: [Tic-Tac-Toe by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
 
 ```markdown
 Syntax highlighted code block
