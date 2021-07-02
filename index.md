@@ -6,14 +6,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Tic-Tac-Toe
 ![](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/tictactoe1.PNG)
-        This is one of my earlier programs, it offers a few simple functions such as single player, two player, and switching the names of the players via the console.  Playing the game itself is also relatively simple as it is done by entering the space you would like the 'X' or 'O' to go respectively, depending on which player you are. 
-        The single player uses an AI based on the minimax algorithm.  Throughout the program there are many prompts and descriptions for how it is meant to work in order to guide the player through the console based environment.  Basic ASCII art is used for winnning and losing screens as well.
 
-Check out this project here: [Tic-Tac-Toe by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
+   This is one of my earlier programs, it offers a few simple functions such as single player, two player, and switching the names of the players via the console.  Playing the game itself is also relatively simple as it is done by entering the space you would like the 'X' or 'O' to go respectively, depending on which player you are. 
+   The single player uses an AI based on the minimax algorithm.  Throughout the program there are many prompts and descriptions for how it is meant to work in order to guide the player through the console based environment.  Basic ASCII art is used for winnning and losing screens as well.
+
+**Check out this project here: [Tic-Tac-Toe by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
 
 ### Solar System
 ![](https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif)
-<img src="https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif">
+        
+   This is a more recent program which is simply a demonstration of basic java graphics.  The program calculates the rate at which earth, mars, and the moon are meant to spin based on the inputted speed by the user.
+
+**Check out this project here: [Solar System by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
 
 **Bold** and _Italic_ and `Code` text
 
