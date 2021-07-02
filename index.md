@@ -5,7 +5,6 @@ You can use the [editor on GitHub](https://github.com/marklanglo/My-Portfolio/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Tic-Tac-Toe
-![](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/tictactoe1.PNG)
 ![Image](https://github.com/marklanglo/TicTacToe/blob/main/Screenshots/tictactoe1.PNG)
 
    This is one of my earlier programs, it offers a few simple functions such as single player, two player, and switching the names of the players via the console.  Playing the game itself is also relatively simple as it is done by entering the space you would like the 'X' or 'O' to go respectively, depending on which player you are. 
@@ -14,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **Check out this project here: [Tic-Tac-Toe by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
 
 ### Solar System
-![](https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif)
+![GIF](https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif)
         
    This is a more recent program which is simply a demonstration of basic java graphics.  The program calculates the rate at which earth, mars, and the moon are meant to spin based on the inputted speed by the user.
 
