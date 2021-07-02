@@ -17,14 +17,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
    This is a java graphical program that has two dots moving across the screen, the brownish dot is Jerry(Mouse) and the Greyish dot is Tom(Cat).  The user inputs the speed that both will move at, and then they enter the angle at which Jerry will bounce off the walls.  The program is essentially one dot that bounces off of the walls and the other pathfinds to the ball that is bouncing around until it catches it.  
 
-**Check out this project here:** [Tom and Jerry by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
+**Check out this project here:** [Tom and Jerry by: Mark Wiedeman](https://github.com/marklanglo/Tom-and-Jerry)
 
 ### Solar System
 ![GIF](https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif)
         
    This is a more recent program which is simply a demonstration of basic java graphics.  The program calculates the rate at which earth, mars, and the moon are meant to spin based on the inputted speed by the user.
 
-**Check out this project here:** [Solar System by: Mark Wiedeman](https://github.com/marklanglo/TicTacToe/tree/main)
+**Check out this project here:** [Solar System by: Mark Wiedeman](https://github.com/marklanglo/Solar-System)
 
 **Bold** and _Italic_ and `Code` text
 
