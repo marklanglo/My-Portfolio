@@ -21,7 +21,7 @@ Hello, I am **Mark Wiedeman**, and this is a simple website to archive some of m
 ### Solar System
 ![GIF](https://github.com/marklanglo/My-Portfolio/blob/gh-pages/screenshots/SolarSystem.gif)
         
-   This is a more recent program which is simply a demonstration of basic java graphics.  The program calculates the rate at which earth, mars, and the moon are meant to spin based on the inputted speed by the user.  This is simply an extra program for fun.
+   This is more of a fun project which is simply a demonstration of basic java graphics.  The program calculates the rate at which earth, mars, and the moon are meant to spin based on the inputted speed by the user.  This is simply an extra program for fun.
 
 **Check out this project here:** [Solar System by: Mark Wiedeman](https://github.com/marklanglo/Solar-System)
 
