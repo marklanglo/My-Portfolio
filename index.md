@@ -7,7 +7,7 @@ I've chosen these projects to best represent me and how I write code.  As for th
 
 ### Eros
 <img src="./screenshots/eros.png " alt="Eros" width="625">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was a challenging one due to the strict timeframe the teach had to stick to.  The MVP was to make a metroidvania style game within a month's time.  We used unity as the editor, so the majority of the work was done in C#.  The large majority of the assets were made from scratch.  Our team consisted of the following members. UI/UX designer - <a href="https://www.linkedin.com/in/brynnlee-ehrsam">Brynnlee Ehrsam</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was a challenging one due to the strict timeframe the team had to stick to.  The MVP was to make a metroidvania style game within a month's time.  We used unity as the editor, so the majority of the work was done in C#.  The large majority of the assets were made from scratch.  Our team consisted of the following members. UI/UX designer - <a href="https://www.linkedin.com/in/brynnlee-ehrsam">Brynnlee Ehrsam</a>
  , Gameplay Developers - <a href="https://www.linkedin.com/in/mateo-rodriguez-reyes">Mateo Rodriguez</a> and <a href="https://www.linkedin.com/in/mark-wiedeman-47bb45213">Mark Wiedeman</a>, and Interface Developer - <a href="https://www.linkedin.com/in/quin-stankus-84b94618a">Quinlan Stankus</a>
 .  This project taught me how important it is to manage time wisely when your team is in a time crunch.  We are currently working on another project that we plan to release within the year.
 
