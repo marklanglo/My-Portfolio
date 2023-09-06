@@ -13,6 +13,11 @@ I've chosen these projects to best represent me and how I write code.  As for th
 
 **Check out this project here:** [Eros Project](https://erosproject.itch.io/eros)
 
+### PONG Game
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project is a recreation of the classic game known as PONG.  It was made using Pygame and Python.  The game is complete with sounds, scene selection, menus, and a scoring system.  It was fun adapting to the relatively loose-ended game engine that Pygame provided while making sure the game felt nice to play and looked good.  I am very proud of the organization of my code structure for this project, and it ended up just like I wanted it to.
+
+**Check out this project here:** [PONG Game](https://github.com/marklanglo/My_Pong_Game)
+
 ### Tic-Tac-Toe
 <img src="./screenshots/tictactoe1.PNG" alt="Tic-Tac-Toe" width="625">
 
